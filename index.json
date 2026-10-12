@@ -1,0 +1,11 @@
+{
+  "org": "ipython",
+  "repo": "ipyparallel",
+  "versions": [
+    {
+      "commit": "d724f99d7e4949e116ca986ad00576bc1d86a843",
+      "tag": "",
+      "parsed_at": "2026-10-12T03:20:19.797245+00:00"
+    }
+  ]
+}

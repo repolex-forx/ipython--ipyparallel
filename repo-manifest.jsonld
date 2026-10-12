@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ipython/ipyparallel/commit/d724f99d7e4949e116ca986ad00576bc1d86a843",
       "git:hexsha": "d724f99d7e4949e116ca986ad00576bc1d86a843",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T03:20:19.796405+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ipython/ipyparallel/commit/669a7dba4b88fb1e0485bf5db6012eeffd191627",
